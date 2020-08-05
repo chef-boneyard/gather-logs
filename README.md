@@ -1,15 +1,14 @@
-# MY PROJECT
-Include badges for your CI system and and package repositories such as RubyGems so the community can easily see the released version.
+# Chef Support's Gather-Logs Tooling
 
-Give a brief description of what the repository contains. What this application or library. Sell it.
+We're pulling in tooling from the individual product repositories so there's a unified set of tooling to enable log gathering for Chef products. This will enable log submission when opening support tickets, but can also be used as part of a user's troubleshooting workflow with tools like [Chef's gatherlog report](https://github.com/chef/gatherlogs-reporter)
 
 ## Requirements
 
-Are there any runtimes or other software required to use this application. List them out including their versions
+TBD
+
 ## Getting Started
 
-How does someone use the library or application. This may just be a link to a docs site. That's fine.
-
+Right now there's not much to be done, although if users have issues with existing `gather-logs` commands they can open an Issue against this repository and we'll try to address them as part of this ongoing work.
 
 ## License
 

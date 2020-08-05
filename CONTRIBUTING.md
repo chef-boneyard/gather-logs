@@ -1,3 +1,3 @@
-# Contributing to PROJECT_NAME
+# Contributing to Chef Gather-Logs
 
-Provide full instructions on how a new user can contribute to your project here.
+We're still getting started here, pulling in tooling from the individual product repositories and preparing to have this executable as its own command and consumable by the products.
